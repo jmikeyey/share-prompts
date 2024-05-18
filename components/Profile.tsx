@@ -1,3 +1,4 @@
+"use client";
 const Profile = () => {
   return <div>Profile</div>;
 };
